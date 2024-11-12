@@ -16,13 +16,8 @@
     text-align: center;
     padding: 18px 0px;
     font-size: 15px;
-<<<<<<< HEAD
-    position: fixed;
-=======
-
     position: fixed;
     top: 0px;
->>>>>>> 48189e055ecde189604005c09c12d06ccb6a145b
 }
 
 .header1 p {
@@ -34,7 +29,6 @@
 }
 
 
-<<<<<<< HEAD
 /* HERO SECTION  */
 
 .hero-layout {
@@ -75,10 +69,7 @@
     padding: 11px 70px;
     box-shadow: 0 0 0 black;
     text-align: center;
-=======
-
-
-
+}
 
 
 
@@ -107,19 +98,20 @@
 /* Responsiveness For Header 1  */
 
 
-@media  screen and (max-width: 480px) {
+@media screen and (max-width: 480px) {
     .header1 p {
         font-size: 12px;
     }
 }
 
-@media  screen and (max-width: 359px) {
+@media screen and (max-width: 359px) {
     .header1 p {
         font-size: 12px;
     }
+
     .header1 p a {
         display: block;
-       /* background-color: red;*/   /*For Debugging*/
+        /* background-color: red;*/
+        /*For Debugging*/
     }
->>>>>>> 48189e055ecde189604005c09c12d06ccb6a145b
 }
