@@ -1,7 +1,8 @@
-This project is for educational purposes only.
+This Project is For Educational Purposes Only.
 
-# tesla_clone
-It's a group project, We are working to clone the Tesla Website! Tesla is a million dollar company. 
+# Project Name - Tesla Clone
+It's a Group Project, We are Working to Clone the Tesla Website, using our Knowledge of HTML, CSS & JavaScript! 
+<br><br> Tesla, Inc. is an American electric vehicle and clean energy company founded in 2003, known for pioneering electric cars, battery energy storage, and solar products. Tesla is a million dollar company. 
 
 # Project Goals
 
