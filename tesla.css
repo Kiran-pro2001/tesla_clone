@@ -16,6 +16,9 @@
     text-align: center;
     padding: 18px 0px;
     font-size: 15px;
+
+    position: fixed;
+    top: 0px;
 }
 
 .header1 p{
@@ -24,4 +27,52 @@
 
 .header1 p a{
     color: #202328;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Responsiveness For Header 1  */
+
+
+@media  screen and (max-width: 480px) {
+    .header1 p {
+        font-size: 12px;
+    }
+}
+
+@media  screen and (max-width: 359px) {
+    .header1 p {
+        font-size: 12px;
+    }
+    .header1 p a {
+        display: block;
+       /* background-color: red;*/   /*For Debugging*/
+    }
 }
