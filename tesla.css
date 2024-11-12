@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+
+/* Header - 1 */
+.header1{
+    width: 100%;
+    /* height: 60px; */
+    background-color: #F4F4F4;
+    color: #202328;
+    text-align: center;
+    padding: 18px 0px;
+    font-size: 15px;
+}
+
+.header1 p{
+    font-weight: 400;
+}
+
+.header1 p a{
+    color: #202328;
+}
